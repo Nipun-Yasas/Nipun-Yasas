@@ -102,15 +102,17 @@
     </a>
   </p>
 
-<div>
+<div >
+  <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipun-yasas&" alt="GitHub Streak Stats" " />
-    <img src="https://github-readme-stats.vercel.app/api?username=nipun-yasas&show_icons=true&locale=en" alt="GitHub Stats" " />
   </div>
-
-  <div >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nipun-yasas&show_icons=true&locale=en&layout=compact" 
-         alt="Top Languages" style="max-width: 60%;" />
+  <div align="right">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nipun-yasas&show_icons=true&locale=en&layout=compact" 
+         alt="Top Languages" />
+    </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=nipun-yasas&show_icons=true&locale=en" alt="GitHub Stats" />
+  
   </div>
- 
+  </div>
 
 </div>
