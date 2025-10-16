@@ -16,7 +16,7 @@
       <ul>
         <li><a href="mailto:nipuny74@gmail.com">nipuny74@gmail.com</a></li>
         <li><a href="tel:+94705540725">+94 70 554 0725</a></li>
-        <li><a href="https://nipunyasas.me/">Portfolio: www.nipunyasas.me </li>
+        <li><a href="https://nipunyasas.me/">www.nipunyasas.me</li>
       </ul>
 
   </div>
