@@ -1,4 +1,4 @@
-_<div>
+__<div>
   <h2 align="center">Hi 👋, I'm Nipun</h2>
   <div >
     <div align="right">
@@ -33,13 +33,13 @@ _<div>
   <h3 align="left">Languages and Tools:</h3>
 
   <ul>
-        <li>Programming languages</li><br>
+        <li>Programming Languages</li><br>
     <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts" />
   </a>
 </p>
-    <li>Web development</li><br>
+    <li>Web Development</li><br>
     <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,express,nodejs,nuxtjs,vue,html,css,tailwind,materialui,spring,vite,npm,maven,postman" />
@@ -57,7 +57,7 @@ _<div>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
   </a>
 </p>
-    <li>Version controlling</li><br>
+    <li>Version Controlling</li><br>
     <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
@@ -75,13 +75,13 @@ _<div>
     <img src="https://skillicons.dev/icons?i=sklearn,opencv,tensorflow" />
   </a>
 </p>
-    <li>Tools and editos</li><br>
+    <li>Tools and Editors</li><br>
     <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,clion,idea,arduino,figma" />
   </a>
 </p>
- <li>OS</li><br>
+ <li>Operating Systems</li><br>
     <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
@@ -104,4 +104,5 @@ _<div>
   </div>
 
 </div>
+_
 _
